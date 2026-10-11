@@ -1,5 +1,9 @@
 # Aki's Thundering Immersed - Reforged
 
+<p align="center">
+  <img src="docs/cover-preview.png" alt="Aki's Thundering Immersed - Reforged cover artwork" width="320" height="320">
+</p>
+
 **[Product of Achilleus](https://linktr.ee/achilleus_)** — Created and maintained by [Achilleus (Achilleus-1)](https://github.com/Achilleus-1).
 
 Distance-based thunder sounds for the Minecraft client.
@@ -10,7 +14,7 @@ Distance-based thunder sounds for the Minecraft client.
 
 ## Installation
 
-For **Minecraft 1.21.1**, **NeoForge 21.1.255**, and **Java 21**. Download `akis-thundering-immersed-reforged-1.21.1-1.3.0-neoforge.5.jar` from [Releases](https://github.com/Achilleus-1/Akis-ThunderingImmersed-Reforged/releases/latest) and place it in your `mods` folder. Remove older copies first.
+For **Minecraft 1.21.1**, **NeoForge 21.1.255**, and **Java 21**. Download `akis-thundering-immersed-reforged-1.21.1-1.3.0-neoforge.6.jar` from [Releases](https://github.com/Achilleus-1/Akis-ThunderingImmersed-Reforged/releases/latest) and place it in your `mods` folder. Remove older copies first.
 
 ## Development
 
@@ -29,3 +33,5 @@ Licensed under **MIT**; copyright and license notices are included in [LICENSE](
 ## Development and reuse
 
 See [DEVELOPMENT.md](DEVELOPMENT.md) for reproducible checks and known archival dependencies, [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidance, and [SECURITY.md](SECURITY.md) for private reports.
+
+[Branding assets](BRANDING.md) include the mod icon, original cover, and GitHub social preview.
