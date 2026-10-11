@@ -4,7 +4,9 @@
   <img src="docs/cover.png" alt="Aki's Thundering Immersed - Reforged cover artwork" width="320" height="320">
 </p>
 
-**[Product of Achilleus](https://linktr.ee/achilleus_)** — Created and maintained by [Achilleus (Achilleus-1)](https://github.com/Achilleus-1).
+**[Product of Achilleus](https://linktr.ee/achilleus_)** — NeoForge port and maintenance by [Achilleus (Achilleus-1)](https://github.com/Achilleus-1).
+
+Unofficial Minecraft mod; not approved by or affiliated with Mojang or Microsoft.
 
 Distance-based thunder sounds for the Minecraft client.
 
@@ -14,7 +16,7 @@ Distance-based thunder sounds for the Minecraft client.
 
 ## Installation
 
-For **Minecraft 1.21.1**, **NeoForge 21.1.255**, and **Java 21**. Download `akis-thundering-immersed-reforged-1.21.1-1.3.0-neoforge.7.jar` from [Releases](https://github.com/Achilleus-1/Akis-ThunderingImmersed-Reforged/releases/latest) and place it in your `mods` folder. Remove older copies first.
+For **Minecraft 1.21.1**, **NeoForge 21.1.255**, and **Java 21**. Download `akis-thundering-immersed-reforged-1.21.1-1.3.0-neoforge.8.jar` from [Releases](https://github.com/Achilleus-1/Akis-ThunderingImmersed-Reforged/releases/latest) and place it in your `mods` folder. Remove older copies first.
 
 ## Development
 
@@ -24,14 +26,14 @@ Build with a Java 21 JDK: `./gradlew build` on Linux/macOS or `.\gradlew.bat bui
 
 Launch the development client with `./gradlew runClient` or `.\gradlew.bat runClient`. Mod information and Minecraft/NeoForge versions are configured in `gradle.properties`. GitHub Actions checks the build on pushes and pull requests.
 
-## Attribution
-
-Ported from [Immersive Thunder](https://github.com/netcatgirl/ImmersiveThunder) by netcatgirl.
-
-Licensed under **MIT**; copyright and license notices are included in [LICENSE](LICENSE) and packaged resources.
-
 ## Development and reuse
 
 See [DEVELOPMENT.md](DEVELOPMENT.md) for reproducible checks and known archival dependencies, [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidance, and [SECURITY.md](SECURITY.md) for private reports.
 
 [Branding assets](BRANDING.md) include the mod icon, original cover, and GitHub social preview.
+
+## Attribution
+
+Unofficial NeoForge port of [Immersive Thunder](https://github.com/netcatgirl/ImmersiveThunder) by **netcatgirl**. Port development and maintenance by **Achilleus (Achilleus-1)**. Original creators retain rights to their contributions.
+
+The mod code is licensed under **MIT**. Full license notices are retained in [LICENSE](LICENSE) and packaged resources. See [LEGAL.md](LEGAL.md) for upstream revisions, asset scope, and redistribution requirements.
