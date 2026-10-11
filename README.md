@@ -16,7 +16,7 @@ Distance-based thunder sounds for the Minecraft client.
 
 ## Installation
 
-For **Minecraft 1.21.1**, **NeoForge 21.1.255**, and **Java 21**. Download `akis-thundering-immersed-reforged-1.21.1-1.3.0-neoforge.8.jar` from [Releases](https://github.com/Achilleus-1/Akis-ThunderingImmersed-Reforged/releases/latest) and place it in your `mods` folder. Remove older copies first.
+For **Minecraft 1.21.1**, **NeoForge 21.1.255**, and **Java 21**. Download `akis-thundering-immersed-reforged-1.21.1-1.3.0-neoforge.9.jar` from [Releases](https://github.com/Achilleus-1/Akis-ThunderingImmersed-Reforged/releases/latest) and place it in your `mods` folder. Remove older copies first.
 
 ## Development
 
@@ -32,8 +32,8 @@ See [DEVELOPMENT.md](DEVELOPMENT.md) for reproducible checks and known archival 
 
 [Branding assets](BRANDING.md) include the mod icon, original cover, and GitHub social preview.
 
-## Attribution
+## License and credits
 
-Unofficial NeoForge port of [Immersive Thunder](https://github.com/netcatgirl/ImmersiveThunder) by **netcatgirl**. Port development and maintenance by **Achilleus (Achilleus-1)**. Original creators retain rights to their contributions.
+Based on [Immersive Thunder](https://github.com/netcatgirl/ImmersiveThunder) by **netcatgirl**.
 
-The mod code is licensed under **MIT**. Full license notices are retained in [LICENSE](LICENSE) and packaged resources. See [LEGAL.md](LEGAL.md) for upstream revisions, asset scope, and redistribution requirements.
+**MIT** — see [LICENSE](LICENSE) and [LEGAL.md](LEGAL.md).
