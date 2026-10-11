@@ -14,7 +14,7 @@ credits="Ported from Immersive Thunder by netcatgirl."
 description='''Product of Achilleus.
 https://linktr.ee/achilleus_
 
-Distance-based thunder sounds for the Minecraft client. Created and maintained by Achilleus for NeoForge 1.21.1.'''
+Distance-based thunder sounds for the Minecraft client. Unofficial NeoForge 1.21.1 port maintained by Achilleus. Original mod by netcatgirl.'''
 
 [[dependencies.${mod_id}]]
 modId="neoforge"
