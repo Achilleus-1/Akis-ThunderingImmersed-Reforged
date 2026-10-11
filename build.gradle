@@ -21,6 +21,7 @@ tasks.withType(JavaCompile).configureEach {
     options.release = java_version as int
 }
 jar {
+    from('LICENSE')
     manifest.attributes('Implementation-Title': mod_name,
         'Implementation-Version': project.version,
         'Built-On-Minecraft': minecraft_version)

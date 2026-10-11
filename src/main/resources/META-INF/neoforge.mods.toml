@@ -1,20 +1,20 @@
 modLoader="javafml"
 loaderVersion="${loader_version_range}"
 license="${mod_license}"
-issueTrackerURL="https://github.com/Achilleus-1/Akis-NeoThunderingImmersed/issues"
+issueTrackerURL="https://github.com/Achilleus-1/Akis-ThunderingImmersed-Reforged/issues"
 
 [[mods]]
 modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
 displayURL="https://linktr.ee/achilleus_"
-logoFile="assets/achilleus/achilleus-logo-white.png"
+logoFile="icon.png"
 authors="${mod_authors}"
-credits="netcatgirl, original Immersive Thunder"
+credits="Ported from Immersive Thunder by netcatgirl."
 description='''Product of Achilleus.
 https://linktr.ee/achilleus_
 
-Distance-based thunder sounds. NeoForge 1.21.1 port and rebranding by Achilleus, based on Immersive Thunder by netcatgirl.'''
+Distance-based thunder sounds for the Minecraft client. Unofficial NeoForge 1.21.1 port maintained by Achilleus. Original mod by netcatgirl.'''
 
 [[dependencies.${mod_id}]]
 modId="neoforge"
