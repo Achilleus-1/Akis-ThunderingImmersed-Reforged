@@ -1,4 +1,4 @@
-# Aki's Neo Thundering Immsersed Reforge
+# Aki's Thundering Immersed - Reforged
 
 **[Product of Achilleus](https://linktr.ee/achilleus_)** — Created and maintained by [Achilleus (Achilleus-1)](https://github.com/Achilleus-1).
 
@@ -6,7 +6,7 @@ Distance-based thunder sounds for the Minecraft client.
 
 ## Installation
 
-For **Minecraft 1.21.1**, **NeoForge 21.1.255**, and **Java 21**. Download `akis-neo-thundering-immsersed-reforge-1.21.1-1.3.0-neoforge.4.jar` from [Releases](https://github.com/Achilleus-1/Akis-NeoThunderingImmsersed-Reforge/releases/latest) and place it in your `mods` folder. Remove older copies first.
+For **Minecraft 1.21.1**, **NeoForge 21.1.255**, and **Java 21**. Download `akis-thundering-immersed-reforged-1.21.1-1.3.0-neoforge.5.jar` from [Releases](https://github.com/Achilleus-1/Akis-ThunderingImmersed-Reforged/releases/latest) and place it in your `mods` folder. Remove older copies first.
 
 ## Development
 
